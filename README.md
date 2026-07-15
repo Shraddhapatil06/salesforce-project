@@ -18,7 +18,7 @@ Lightning App Builder
 Permission Sets and Profiles
 Data Import and Export
 
-##Technologies Used
+#Technologies Used
 Salesforce CRM
 Apex
 SOQL
@@ -29,7 +29,7 @@ Salesforce Flow
 Git
 GitHub
 
-###Project Objective
+#Project Objective
 
 The objective of this project is to gain practical experience with Salesforce by implementing business requirements using declarative tools and Apex programming. This repository serves as a record of my learning progress and demonstrates my ability to build Salesforce solutions.
 
